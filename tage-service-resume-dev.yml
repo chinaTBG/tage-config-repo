@@ -1,0 +1,5 @@
+tage: 
+  message: hello tage,100
+  
+mysql:
+  url: http://localhost:3306/db100
