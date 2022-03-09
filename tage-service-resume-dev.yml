@@ -1,5 +1,5 @@
 tage: 
-  message: hello tage,2000
+  message: hello tage,100
   
 mysql:
-  url: http://localhost:3306/db2000
+  url: http://localhost:3306/db100
